@@ -1,0 +1,21 @@
+.input-container {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+    align-items: center;
+}
+
+.input-container>label {
+    margin-bottom: 8px;
+}
+
+.input-container>input {
+    width: 200px;
+    padding: 16px 8px;
+}
+
+.input-container>input.error,
+.input-container>input:focus.error {
+    border-color: red;
+    outline-color: red;
+}
