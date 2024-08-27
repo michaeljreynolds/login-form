@@ -1,11 +1,11 @@
-# Login form for TSLLLC
+# Login form for TSTLLC
 
 Bootstrapped with create-react-app
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, run
 
-### `npm install`
+### `1. npm install`
 
-### `npm start`
+### `2. npm start`
